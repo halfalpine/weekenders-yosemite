@@ -20,18 +20,24 @@ Sample itinerary:
 
 ###Whole day adventure choices
 
-- [Mt.Dana](http://www.everytrail.com/guide/day-hike-to-mt-dana-) (a slightly easier peak) This would take 3/4 of a day, an includes strenous hiking, some of it off-trail. It's Class 2, which means you never really need to use your hands to clamber over anything.
+- Toulunme Area
 
-- [Mt. Conness](http://www.everytrail.com/guide/mount-conness)(a slightly more hairy peak) This would take 3/4 day of a day, and includes strenuous hiking. It's Class 3, which means you should be prepared to use your hands and feet to scramble over blocks of rocks. It's not really a rock climb (that's Class 5) but it does mean you have to do both hiking *and* scrambling to reach the summit.
+  - [Mt.Dana](http://www.everytrail.com/guide/day-hike-to-mt-dana-) (a slightly easier peak) This would take 3/4 of a day, an includes strenous hiking, some of it off-trail. It's Class 2, which means you never really need to use your hands to clamber over anything.
 
-- [Valley Floor loop](https://www.nps.gov/yose/planyourvisit/valleylooptrail.htm) (Yosemite Valley) Hands-down the best hike in Yosemite Valley. Most of it sees little to no foot traffic. You will get amazing views of Half Dome, El Cap, Yosemite Falls, and all the famous tourist stuff. You will also get to sample both the south and north sides of the valley. A worthwhile extension is hiking to the base of El Capitan. The base of El Cap is a place that only climbers go, and it will give you a totally different perspective of the rock, standing right at the place where it comes out of the ground. You might meet some colorful characters.    
+  - [Mt. Conness](http://www.everytrail.com/guide/mount-conness) (a slightly more hairy peak) This would take 3/4 day of a day, and includes strenuous hiking. It's Class 3, which means you should be prepared to use your hands and feet to scramble over blocks of rocks. It's not really a rock climb (that's Class 5) but it does mean you have to do both hiking *and* scrambling to reach the summit.
 
-- [The Vernal Falls/Panorama/Fourmile Loop](http://www.everytrail.com/view_trip.php?trip_id=1794585) Probably the best option if you want to hike to/through a waterfall. More crowded than anything else here, but not bad at all by New York standards. Do the hike by going up Vernal Falls, and coming down the Four-Mile trail. You will also pass Nevada Falls (my fav) and Glacier Point (they sell food) as waypoints.
+  - [Vogelsang](https://www.nps.gov/yose/planyourvisit/tmhikes.htm) Meadows upon meadows upon meadows. Great views of the surrounding peaks, without actually having to climb them!
 
-- [Half Dome](http://www.everytrail.com/guide/half-dome-hike) The quintessentail Yosemite Valley hike. Long, dusty, and crowded. Still, the summit of Half Dome is unique in all the world. Permits are required. More info available [here](https://www.nps.gov/yose/planyourvisit/halfdome.htm).
+- Yosemite Valley Area
+
+  - [Valley Floor loop](https://www.nps.gov/yose/planyourvisit/valleylooptrail.htm) (Yosemite Valley) Hands-down the best hike in Yosemite Valley. Most of it sees little to no foot traffic. You will get amazing views of Half Dome, El Cap, Yosemite Falls, and all the famous tourist stuff. You will also get to sample both the south and north sides of the valley. A worthwhile extension is hiking to the base of El Capitan. The base of El Cap is a place that only climbers go, and it will give you a totally different perspective of the rock, standing right at the place where it comes out of the ground. You might meet some colorful characters.    
+
+  - [The Vernal Falls/Panorama/Fourmile Loop](http://www.everytrail.com/view_trip.php?trip_id=1794585) Probably the best option if you want to hike to/through a waterfall. More crowded than anything else here, but not bad at all by New York standards. Do the hike by going up Vernal Falls, and coming down the Four-Mile trail. You will also pass Nevada Falls (my fav) and Glacier Point (they sell food) as waypoints.
+
+  - [Half Dome](http://www.everytrail.com/guide/half-dome-hike) The quintessentail Yosemite Valley hike. Long, dusty, and crowded. Still, the summit of Half Dome is unique in all the world. Permits are required. More info available [here](https://www.nps.gov/yose/planyourvisit/halfdome.htm).
 
 
-###Two-hour adventures
+###Two-hour adventures (Mix and match)
 
 - Visit [Hetch Hetchy](https://www.nps.gov/yose/planyourvisit/hetchhetchy.htm). It's close to the Evergreen Lodge, it's often deserted, and it is at the centerpiece of the political history of the National Park Service--the debate over pure wilderness vs. utilitarian purpose. A whole other Yosemite Valley, but flooded and damned by the U.S. government. It's inception drove John Muir to despair, but it also is off the beaten track. No swimming here.
 
@@ -61,7 +67,7 @@ Sample itinerary:
 
 - Limited gas (Crane Flat). There's only one gas station on your way to Yosemite Valley and Tuolunme that I can think of, at [Crane Flat](https://www.google.com/maps/place/Crane+Flat+Gas+Station/@37.7530917,-119.7992314,17z/data=!3m1!4b1!4m5!3m4!1s0x8096c2a3a5e0c111:0x43230bcf096f7420!8m2!3d37.7530917!4d-119.7970427). Make sure you always stay above a quarter tank.
 
-- Weather in the park can vary in September. Expect to be comfortable in shorts and a t-shirt in Yosemite Valley (lower elevation) during the afternoon. Temps are cooler in Toulumne, and while short, maybe long sleeves and pants will work during the day, you will probably need a puffy or heavy fleece in the early morning or evening hours. 
+- Weather in the park can vary in September. Expect to be comfortable in shorts and a t-shirt in Yosemite Valley (lower elevation) during the afternoon. Temps are cooler in Toulumne, and while short, maybe long sleeves and pants will work during the day, you will probably need a puffy or heavy fleece in the early morning or evening hours. Keep in mind that while the Valley is at 4,000', Tuolumne is at 8,000' with peaks above 12,000', so you may need to catch your breath. (And bring both sunblock *and* extra layers!)
 
 - Always hike with a map and compass, especially if you are considering any of the off-trail scrambled in Tuolumne. Cell service is available in most (but not all) of Yosemite Valley. It's pretty spotty throughout the rest of the park. Having an extra cell battery pack might not be a bad idea.
 
