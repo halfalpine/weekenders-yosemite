@@ -2,11 +2,11 @@ Alright you guys.
 
 #Yosemite notes
 
-You have 3-4 days. Dedicate at least one full day bagging a peak in Tuolumne Meadows. Dedicate at least one full day to a hike in/around Yosemite Valley. Spend one day *not* doing an all-day hike, because the secrect to Yosemite is not having anything to do. Wander around in the meadow across the Swinging Bridge, or better yet, in front of El Cap. Eat an It's-It ice cream sandwich. Swim in the river. Take a nap. The more you do this, the better you are at Yosemite. If you have done all of these things, and you still have more days, decide what you like doing best, and spend one more day doing that.
+You have 3-4 days. Dedicate at least one full day to bagging an alpine peak in Tuolumne Meadows. Dedicate at least one full day to a hike in/around Yosemite Valley. Spend one day *not* doing an all-day hike, because the true secret to Yosemite is not having anything to do. Wander around in the meadow across the Swinging Bridge, or better yet, in front of El Cap. Eat an [It's-It](https://itsiticecream.blob.core.windows.net/assets/standard/PRODUCT/41/large/itsit_vanilla.jpg) ice cream sandwich. Swim in the river. Take a nap. The more you do this, the better you are at Yosemite. If you have done all of these things, and you still have more days, decide what you like doing best, and spend one more day doing that.
 
 Yosemite National Park is approximately 800 square miles; if I understand correctly it's larger than the state of Rhode Island. Look at these [maps](https://www.nps.gov/yose/planyourvisit/maps.htm) to understand the two areas that I will be focusing on: Yosemite Valley, and Tuolumne (pronounced: Too-ALL-Um-Knee) Meadows. The Valley is one of the highlights of the park, and the area it is most known for. Just seven miles long by a mile wide, it contains 90% of the visitors that will ever set foot in the Park. Here you will find Half Dome, El Capitan, and many waterfalls. Tuolumne Meadows is 45-60 minutes away from the valley, and almost a mile higher in elevation. Much less traveled (though it has it's busy moments) it is a wonderland of alpine meadows and snow-capped peaks. Both are worth visiting during your time here!
-[Yosemite Valley Hiking Map](https://www.nps.gov/yose/planyourvisit/upload/valleyhikes1.pdf)
-[Yosemite National Park Hiking Map](https://www.nps.gov/yose/planyourvisit/upload/YOSEmap1.pdf) (Includes Toulumne, Big Trees, and the Merced River Canyon)
+- [Yosemite Valley Hiking Map](https://www.nps.gov/yose/planyourvisit/upload/valleyhikes1.pdf)
+- [Yosemite National Park Hiking Map](https://www.nps.gov/yose/planyourvisit/upload/YOSEmap1.pdf) (Includes Toulumne, Big Trees, and the Merced River Canyon)
 
 Sample itinerary:
 
